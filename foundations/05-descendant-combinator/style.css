@@ -1,0 +1,7 @@
+.container .text {
+    background-color: rgb(255, 255, 0);
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+/* this obviously works with just .container{} as well, since this is the class of the divs that contain the p element descendants */
